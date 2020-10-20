@@ -21,4 +21,15 @@ Integrantes:
   
   finanzas = finanzas.go y la carpeta chat
   
-  Makefile: Falta agregar esto max
+  ----------------------------------------------------------
+  
+  *NOTA: Se debe ejecutar primero Logítisca en Dist140*
+  
+  En cada máquina virtual se deben poner los siguiente comandos:
+   1. cd SisDis/
+   2. makefile
+ 
+  Dist137: Clientes
+  Dist138: Finanzas
+  Dist139: Camiones
+  Dist140: Logísitca
