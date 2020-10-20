@@ -27,7 +27,7 @@ Integrantes:
   
   En cada máquina virtual se deben poner los siguiente comandos:
    1. cd SisDis/
-   2. makefile
+   2. make
  
   Dist137: Clientes; 
   Dist138: Finanzas; 
