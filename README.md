@@ -29,7 +29,7 @@ Integrantes:
    1. cd SisDis/
    2. makefile
  
-  Dist137: Clientes
-  Dist138: Finanzas
-  Dist139: Camiones
+  Dist137: Clientes; 
+  Dist138: Finanzas; 
+  Dist139: Camiones; 
   Dist140: Logísitca
